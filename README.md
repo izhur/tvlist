@@ -4,3 +4,4 @@
 - RCTI
 - GlobalTV
 - MNCTV
+- StarPlus Indina

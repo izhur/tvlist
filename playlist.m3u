@@ -7,3 +7,9 @@ https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
 
 #EXTINF:0,MNCTV
 https://cdn-livetv2.metube.id/hls/mnctv_480/index.m3u8
+
+#EXTINF:0,iNewsTV
+https://cdn-livetv2.metube.id/hls/inewstv_480/index.m3u8
+
+#EXTINF:0,StarPlus India
+http://iptvpro.vision-new.org:8789/live/gowant/faojuy/5791.ts
