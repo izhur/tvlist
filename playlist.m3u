@@ -24,6 +24,16 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs19.stream/playlist.m3u8
 #EXTINF:-1 group-title="日本频道",Disney_Channel
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs20.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Ted",FOX
+http://220.128.199.91:80/sta/2.m3u8
+#EXTINF:-1 group-title="Ted",HBO
+http://220.128.199.91:80/sta/4.m3u8
+#EXTINF:-1 group-title="Ted",AXN
+http://220.128.199.91:80/sta/34.m3u8
+#EXTINF:-1 group-title="Ted",CinemaWorld
+http://220.128.199.91:80/sta/35.m3u8
+
+
 
 #EXTINF:-1 group-title="日本纳加",FOX-extra
 vjms://122.155.180.8:8500:3502/live/cid=97
